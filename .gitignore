@@ -2,3 +2,4 @@ auth/*.txt
 logs/*
 *Copy
 output_*/*
+test.*
