@@ -1,5 +1,5 @@
 auth/*.txt
 logs/*
 *Copy
-output_*/*
+output_*/*.csv
 test.*
